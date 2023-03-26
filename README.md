@@ -4,4 +4,4 @@
 proyecto individual con javascript  
 
 
-snake-game-for-dessinger.netlify.app
+https://snake-game-for-dessinger.netlify.app/
